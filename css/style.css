@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.section1{
+    background-image: url('images/bg-hero-desktop.svg');
+    height: 600px;
+    margin-top: -8px;
+    background-color: #f0f5ff;
+}
+#img1{
+    margin-left: 50px;
+}
+#conthead{
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    position: relative;
+}
+#tryItBtn{
+    margin-left: 900px;
+    width: 200px;
+    height: 39px;
+    position: absolute;
+    border-radius: 40px;
+    border-color: #e6e8e6;
+    background-color: white;
+    border-style: solid;
+    outline:none;
+    color:#595959;
+    font-family: 'Roboto', sans-serif;
+}
+#parent1{
+    display: flex;
+}
+#parentparag{
+    width: 40%;
+}
+.h2label{
+    font-size: 50px;
+    margin-left: 80px;
+}
+#Build{
+    margin-bottom: 0px;
+}
+#yourFans{
+    margin-top: 0px;;
+}
+#paragraph1{
+    margin-left: 80px;
+    font-size: 19;
+}
+#getStarted{
+    height: 50px;
+    width: 280px;
+    border-radius: 40px;
+    background-color: #dd5ee6;
+    border: none;
+    outline:none;
+    color: white;
+    margin-left: 80px;
+}
+#parentimg{
+    margin-left: 5%;
+    margin-top: -25px;
+}
+#img2{
+    height: 450px;
+    width: 750px;
+}
+.section2{
+    height: 1000px;
+}
+.parentsec2{
+    height: 350px;
+    width: 1200px;
+    margin-left: 11%;
+    margin-top: 8%;
+    border-style: solid;
+    border-width: 2px;
+    border: none;
+    outline:none;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 6px #f0f0f0;
+    display: flex;
+}
+.pargParent{
+    /* align-items: center; */
+    /* text-align:center;
+    justify-content: center; */
+    width: 40%;
+    padding-top: 100px;
+    padding-left: 10%;
+}
+#generateparag{
+    font-size: 18px;
+    color: #a1a1a1;
+}
+.imgParent{
+    padding-top: 2%;
+    padding-left: 10%;
+}
+#img3{
+    height: 300px;
+    width: 400px;
+}
+#img4{
+    height: 300px;
+    width: 400px;
+}
